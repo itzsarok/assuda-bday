@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/assuda-bday/static/css/main.3d3d3e83.css",
+    "main.js": "/assuda-bday/static/js/main.761be7cf.js",
+    "static/js/453.46f46b80.chunk.js": "/assuda-bday/static/js/453.46f46b80.chunk.js",
+    "static/media/bdayaudo.mp3": "/assuda-bday/static/media/bdayaudo.3e0c7eec94df84220422.mp3",
+    "static/media/birthdaytext.png": "/assuda-bday/static/media/birthdaytext.822b7d3598c562ea36ee.png",
+    "static/media/friend.jpg": "/assuda-bday/static/media/friend.fabe1d1a0472dd3e492d.jpg",
+    "index.html": "/assuda-bday/index.html",
+    "main.3d3d3e83.css.map": "/assuda-bday/static/css/main.3d3d3e83.css.map",
+    "main.761be7cf.js.map": "/assuda-bday/static/js/main.761be7cf.js.map",
+    "453.46f46b80.chunk.js.map": "/assuda-bday/static/js/453.46f46b80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3d3e83.css",
+    "static/js/main.761be7cf.js"
+  ]
+}
